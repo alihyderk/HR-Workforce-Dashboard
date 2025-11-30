@@ -93,5 +93,4 @@ Created By
 
 Ali Hyder
 Data Analytics Student (Germany)
-🔗 GitHub: alihyderk
-📧 Email: your-email-here
+alihyderk26@gmail.com
